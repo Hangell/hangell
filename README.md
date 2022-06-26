@@ -39,6 +39,6 @@
   <a href="https://www.linkedin.com/in/rodrigo-rangel-a80810170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-  <img src="gif/hangell.gif" width="100%">
+  <img src="gif/hangell.gif" width="100%" height="320">
 
 </div>
