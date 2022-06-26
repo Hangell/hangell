@@ -26,7 +26,7 @@
   <img align="center" alt="Windows" height="30" width="30" src="icons/win.png">
   <img align="center" alt="Linux" height="30" width="30" src="icons/linux.png">
   <img align="center" alt="GooglePlay" height="30" width="30" src="icons/googleplay.png">
-  <img align="right" alt="Hangell-pic" height="100" style="border-radius:50px;" src="https://media-exp2.licdn.com/dms/image/C4D03AQFip79uCsQQhQ/profile-displayphoto-shrink_200_200/0/1606340700270?e=1661990400&v=beta&t=KD0sgW7cLYP-4eSVtpBj56KbJ0WtDZ2g44lyZ_h3eDA">
+  <img align="right" alt="Hangell-pic" height="80" style="border-radius:50px;" src="https://media-exp2.licdn.com/dms/image/C4D03AQFip79uCsQQhQ/profile-displayphoto-shrink_200_200/0/1606340700270?e=1661990400&v=beta&t=KD0sgW7cLYP-4eSVtpBj56KbJ0WtDZ2g44lyZ_h3eDA">
 </div>
 
 ##
