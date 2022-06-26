@@ -2,7 +2,7 @@
 
 <div align="justify">
   <a href="https://github.com/hangellorg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hangellorg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=30,000000,003b00, 008F11&title_color=00FF41&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hangellorg&show_icons=true&include_all_commits=true&count_private=true&bg_color=20,000000,003b00, 008F11&title_color=00FF41&text_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangellorg&layout=compact&langs_count=7&bg_color=30,000000,003b00, 008F11&title_color=00FF41&text_color=fff"/>
 </div>
 <div style="display: inline_block"><br>
@@ -26,7 +26,7 @@
   <img align="center" alt="Windows" height="30" width="30" src="icons/win.png">
   <img align="center" alt="Linux" height="30" width="30" src="icons/linux.png">
   <img align="center" alt="GooglePlay" height="30" width="30" src="icons/googleplay.png">
-  <img align="right" alt="Hangell-pic" height="150" style="border-radius:50px;" src="https://hangell.org/wp-content/uploads/2022/04/cropped-hangell-logo-removebg-preview.png">
+  <img align="right" alt="Hangell-pic" height="150" style="border-radius:50px;" src="https://media-exp2.licdn.com/dms/image/C4D03AQFip79uCsQQhQ/profile-displayphoto-shrink_200_200/0/1606340700270?e=1661990400&v=beta&t=KD0sgW7cLYP-4eSVtpBj56KbJ0WtDZ2g44lyZ_h3eDA">
 </div>
 
 ##
@@ -36,6 +36,6 @@
   <a href="https://discord.gg/hangell" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rodrigo-rangel-a80810170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg)
+  <img src="gif/hangell.gif" width="100%">
 
 </div>
