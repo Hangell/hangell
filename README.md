@@ -26,7 +26,6 @@
   <img align="center" alt="Windows" height="30" width="30" src="icons/win.png">
   <img align="center" alt="Linux" height="30" width="30" src="icons/linux.png">
   <img align="center" alt="GooglePlay" height="30" width="30" src="icons/googleplay.png">
-  <img align="right" alt="Hangell-pic" height="80" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFip79uCsQQhQ/profile-displayphoto-shrink_800_800/0/1606340700270?e=1667433600&v=beta&t=TXNk8fZkSA6vSjHyo_00ebC9kLp4463DZWRfdSHTxpo">
 </div>
 
 ##
