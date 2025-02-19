@@ -1,4 +1,4 @@
-## Rodrigo Rangel, CEO da Hangell.org!
+## Rodrigo Rangel, Hangell.org!
 
 <div>
   <a href="https://github.com/hangell">
