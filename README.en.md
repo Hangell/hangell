@@ -79,10 +79,11 @@ Full Stack Developer passionate about technology and innovation. Specialized in 
 </div>
 
 ### Docs & API
+<div>
  <img align="center" alt="Postman" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
  <img align="center" alt="Insomnia" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
  <img align="center" alt="Swagger" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
-
+</div>
 
 ---
 
