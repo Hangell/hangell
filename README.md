@@ -1,4 +1,5 @@
 [![pt-BR](https://img.shields.io/badge/🇧🇷-Português-green)](README.md)
+[![es](https://img.shields.io/badge/🇪🇸-Español-black)](README.es.md)
 [![en](https://img.shields.io/badge/🇺🇸-English-black)](README.en.md)
 # 👋 Olá! Eu sou Rodrigo Rangel
 
