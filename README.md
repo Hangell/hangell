@@ -4,7 +4,7 @@
 # 👋 Olá! Eu sou Rodrigo Rangel
 
 <div align="center">
-  <img src="gif/hangell.gif" width="100%" height="320" alt="Hangell Banner"/>
+  <img src="https://cdn.dossi.es/hangell/HangellLKD.png" width="100%"/>
 </div>
 
 ## 🚀 Sobre Mim
@@ -88,6 +88,9 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Especializado e
 
 ---
 
+<div align="center">
+  <img src="gif/hangell.gif" width="100%" height="320" alt="Hangell Banner"/>
+</div>
 ## 🎯 Áreas de Especialização
 
 - **🌐 Desenvolvimento Full Stack:** Criação de aplicações web completas
