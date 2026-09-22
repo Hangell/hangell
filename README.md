@@ -1,7 +1,7 @@
 [![pt-BR](https://img.shields.io/badge/🇧🇷-Português-green)](README.md)
 [![es](https://img.shields.io/badge/🇪🇸-Español-black)](README.es.md)
 [![en](https://img.shields.io/badge/🇺🇸-English-black)](README.en.md)
-# 👋 Olá! Eu sou Rodrigo Rangel
+# 👋 Olá! Eu sou Rodrigo Rangel de Souza
 
 <div align="center">
   <img src="https://cdn.dossi.es/hangell/HangellLKD.png" width="100%"/>
