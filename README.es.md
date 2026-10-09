@@ -32,6 +32,8 @@ Una selección de repositorios para conocer mi trabajo con contenido, automatiza
 | [Ghost AI Writer](https://github.com/Hangell/ghost-ai-writer) | Plugin para automatizar la creación y gestión de posts de blogs WordPress con IA. | PHP, JavaScript, WordPress, APIs de IA |
 | [imgo](https://github.com/Hangell/imgo) | Herramienta de escritorio para redimensionar y convertir imágenes. | Go, Fyne |
 | [Browser Simulator](https://github.com/Hangell/browser-simulator) | Emula navegadores y perfiles de iPhone, iPad y Android en Linux, Windows y macOS, sin necesitar un Mac físico. | JavaScript, Playwright, WebKit, Chromium |
+| [Ganesha](https://github.com/Hangell/ganesha) | Cliente de chat de escritorio para conversar con modelos de IA en servidores LLM, como Ollama, con historial de conversaciones y respuestas en streaming. | C, GTK4, Libadwaita, Ollama |
+| [Calculadora React](https://github.com/Hangell/calculadora-react) | Calculadora web hecha con React, disponible en GitHub Pages. [Probar →](https://hangell.github.io/calculadora-react/) | JavaScript, React, GitHub Pages |
 | [gommit](https://github.com/Hangell/gommit) | Asistente de terminal para crear mensajes de commit con el estándar Conventional Commits. | Go, Git |
 | [jano](https://github.com/Hangell/jano) | Biblioteca de enrutamiento HTTP con grupos de rutas, middleware y utilidades para APIs. | Go, net/http |
 | [ScreenForge](https://github.com/Hangell/ScreenForge) | Aplicación de escritorio para grabar la pantalla. | C#, .NET, Avalonia, FFmpeg |
