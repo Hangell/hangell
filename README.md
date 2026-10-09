@@ -10,6 +10,8 @@
 
 Sou desenvolvedor em São Paulo e fundador da [Hangell.org](https://hangell.org). Crio aplicações web, mobile e desktop, além de bibliotecas e ferramentas para outros desenvolvedores.
 
+Estudo tecnologia desde **1998** e trabalho profissionalmente com **desenvolvimento de software desde 2012**.
+
 Atualmente, atuo como **Tech Lead Full Stack na MJV**, com Java e Spring, TypeScript, NestJS e Angular. No cotidiano, utilizo **Git para versionamento e AWS CodeCommit para hospedar e colaborar nos repositórios de trabalho**, além de AWS, Rancher, MySQL e DBeaver. Também trabalho com documentação de APIs em Swagger/OpenAPI e JSON, utilizando Bruno, Insomnia e Postman para explorar e validar integrações.
 
 Meu trabalho reúne desenvolvimento de produto, integração de serviços e colaboração em projetos open source. Aqui você encontra código, documentação e contribuições que mostram como transformo ideias em software e participo da construção de projetos em equipe.
@@ -20,16 +22,31 @@ Meu trabalho reúne desenvolvimento de produto, integração de serviços e cola
 
 ## 🚀 Projetos em destaque
 
-Uma seleção de repositórios para conhecer meu trabalho com ferramentas de desenvolvimento, aplicações e integrações.
+Uma seleção de repositórios para conhecer meu trabalho com conteúdo, automação, ferramentas de desenvolvimento e aplicações.
+
+### Aplicações, plugins e ferramentas
 
 | Projeto | O que estou construindo | Tecnologias |
 | --- | --- | --- |
+| [IAudience](https://github.com/Hangell/iaudience) | Plugin WordPress que analisa semanticamente artigos e perfis de interesse do público para recomendar conteúdo. | PHP, JavaScript, WordPress, OpenAI |
+| [Ghost AI Writer](https://github.com/Hangell/ghost-ai-writer) | Plugin para automatizar a criação e o gerenciamento de posts de blogs WordPress com IA. | PHP, JavaScript, WordPress, APIs de IA |
+| [imgo](https://github.com/Hangell/imgo) | Ferramenta desktop para redimensionar e converter imagens. | Go, Fyne |
+| [Browser Simulator](https://github.com/Hangell/browser-simulator) | Emula navegadores e perfis de iPhone, iPad e Android no Linux, Windows e macOS, sem exigir um Mac físico. | JavaScript, Playwright, WebKit, Chromium |
 | [gommit](https://github.com/Hangell/gommit) | Assistente de terminal para criar mensagens de commit no padrão Conventional Commits. | Go, Git |
 | [jano](https://github.com/Hangell/jano) | Biblioteca de roteamento HTTP com grupos de rotas, middleware e helpers para APIs. | Go, net/http |
-| [laima](https://github.com/Hangell/laima) | Biblioteca e CLI para manipular, comparar e formatar datas e horários. | TypeScript, JavaScript, Node.js |
 | [ScreenForge](https://github.com/Hangell/ScreenForge) | Aplicação desktop para gravação de tela. | C#, .NET, Avalonia, FFmpeg |
 | [nvr-monitor](https://github.com/Hangell/nvr-monitor) | Monitor de câmeras RTSP com visualização em grade e conexões salvas. | C, FFmpeg, SDL2, SQLite |
 | [api-websocket](https://github.com/Hangell/api-websocket) | Serviço que distribui dados de mercado em tempo real para clientes conectados. | TypeScript, NestJS, Socket.IO |
+
+### Bibliotecas publicadas no npm
+
+Também crio bibliotecas reutilizáveis para outros desenvolvedores, com código aberto e pacotes disponíveis no npm.
+
+| Biblioteca | Para que serve | Links |
+| --- | --- | --- |
+| **Laima** | Manipulação, comparação e formatação de datas e horários em JavaScript/TypeScript. | [npm](https://www.npmjs.com/package/laima) · [Código](https://github.com/Hangell/laima) |
+| **Combinare** | Combinações, permutações e produtos cartesianos para trabalhar com dados, variantes e cenários de teste. | [npm](https://www.npmjs.com/package/combinare) · [Código](https://github.com/Hangell/combinare) |
+| **Sounds Control** | Controle de áudio em JavaScript/TypeScript para jogos e aplicações web. | [npm](https://www.npmjs.com/package/sounds-control) · [Código](https://github.com/Hangell/sounds-control) |
 
 **Também crio apps mobile:** conheça meus [aplicativos no Google Play](https://play.google.com/store/apps/dev?id=5606456325281613718).
 
@@ -58,13 +75,13 @@ Estas linguagens fazem parte da minha atuação profissional e dos meus projetos
 
 | Área | Tecnologias e como as aplico |
 | --- | --- |
-| **Web** | Angular, React, Next.js, HTML e CSS para interfaces e aplicações web. |
+| **Web** | Angular, React, Next.js, HTML e CSS para interfaces e aplicações web; WordPress e PHP para plugins e automação de conteúdo. |
 | **Mobile** | Ionic, Capacitor, React Native e Framework7 para desenvolvimento de apps. |
 | **Backend e integrações** | Java, Spring, Node.js, NestJS, APIs REST, WebSocket, Socket.IO e RabbitMQ para serviços, comunicação em tempo real e mensageria. |
 | **Desktop e multimídia** | .NET, Avalonia, GTK, FFmpeg e SDL2 em aplicações nativas e ferramentas de áudio e vídeo. |
 | **Dados** | PostgreSQL, MySQL, SQLite, MongoDB, Redis e CouchDB para persistência e acesso a dados; DBeaver para consultas e administração de bancos. |
 | **Infraestrutura e entrega** | Git para versionamento, AWS CodeCommit nos repositórios do trabalho, GitHub e GitHub Actions nos projetos públicos; AWS, Docker, Portainer e Rancher para infraestrutura, automação e containers. |
-| **Qualidade e APIs** | Cypress para testes; Bruno, Insomnia e Postman para explorar APIs e validar integrações. |
+| **Qualidade e APIs** | Cypress e Playwright para testes e simulação de navegadores; Bruno, Insomnia e Postman para explorar APIs e validar integrações. |
 | **Documentação** | Swagger/OpenAPI e JSON para documentar contratos e estruturas de dados das APIs. |
 
 **Como trabalho:** busco código compreensível, componentes reutilizáveis, testes que verificam comportamentos e documentação que facilite o uso e a colaboração. Escolho tecnologias de acordo com o problema e os requisitos do projeto.

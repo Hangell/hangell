@@ -10,6 +10,8 @@
 
 I'm a developer based in São Paulo and the founder of [Hangell.org](https://hangell.org). I build web, mobile and desktop applications, along with libraries and tools for other developers.
 
+I've been studying technology since **1998** and working professionally in **software development since 2012**.
+
 I currently work as a **Full Stack Tech Lead at MJV**, using Java and Spring, TypeScript, NestJS and Angular. In my daily work, I use **Git for version control and AWS CodeCommit to host and collaborate on work repositories**, alongside AWS, Rancher, MySQL and DBeaver. I also work on API documentation with Swagger/OpenAPI and JSON, using Bruno, Insomnia and Postman to explore and validate integrations.
 
 My work brings together product development, service integration and open source collaboration. Here you'll find code, documentation and contributions that show how I turn ideas into software and help build projects with others.
@@ -20,16 +22,31 @@ My work brings together product development, service integration and open source
 
 ## 🚀 Featured projects
 
-A selection of repositories showing my work on developer tools, applications and integrations.
+A selection of repositories showing my work on content, automation, developer tools and applications.
+
+### Applications, plugins and tools
 
 | Project | What I'm building | Technologies |
 | --- | --- | --- |
+| [IAudience](https://github.com/Hangell/iaudience) | A WordPress plugin that semantically analyzes articles and audience interest profiles to recommend content. | PHP, JavaScript, WordPress, OpenAI |
+| [Ghost AI Writer](https://github.com/Hangell/ghost-ai-writer) | A plugin for automating the creation and management of WordPress blog posts with AI. | PHP, JavaScript, WordPress, AI APIs |
+| [imgo](https://github.com/Hangell/imgo) | A desktop tool for resizing and converting images. | Go, Fyne |
+| [Browser Simulator](https://github.com/Hangell/browser-simulator) | Emulates browsers and iPhone, iPad and Android profiles on Linux, Windows and macOS, without requiring a physical Mac. | JavaScript, Playwright, WebKit, Chromium |
 | [gommit](https://github.com/Hangell/gommit) | A command-line assistant for writing commit messages using Conventional Commits. | Go, Git |
 | [jano](https://github.com/Hangell/jano) | An HTTP routing library with route groups, middleware and API helpers. | Go, net/http |
-| [laima](https://github.com/Hangell/laima) | A library and CLI for manipulating, comparing and formatting dates and times. | TypeScript, JavaScript, Node.js |
 | [ScreenForge](https://github.com/Hangell/ScreenForge) | A desktop application for screen recording. | C#, .NET, Avalonia, FFmpeg |
 | [nvr-monitor](https://github.com/Hangell/nvr-monitor) | An RTSP camera monitor with grid viewing and saved connections. | C, FFmpeg, SDL2, SQLite |
 | [api-websocket](https://github.com/Hangell/api-websocket) | A service that streams real-time market data to connected clients. | TypeScript, NestJS, Socket.IO |
+
+### Libraries published on npm
+
+I also build reusable libraries for other developers, with open source code and packages available on npm.
+
+| Library | Purpose | Links |
+| --- | --- | --- |
+| **Laima** | Date and time manipulation, comparison and formatting in JavaScript/TypeScript. | [npm](https://www.npmjs.com/package/laima) · [Source](https://github.com/Hangell/laima) |
+| **Combinare** | Combinations, permutations and Cartesian products for working with data, variants and test scenarios. | [npm](https://www.npmjs.com/package/combinare) · [Source](https://github.com/Hangell/combinare) |
+| **Sounds Control** | Audio control in JavaScript/TypeScript for games and web applications. | [npm](https://www.npmjs.com/package/sounds-control) · [Source](https://github.com/Hangell/sounds-control) |
 
 **I also build mobile apps:** explore my [apps on Google Play](https://play.google.com/store/apps/dev?id=5606456325281613718).
 
@@ -58,13 +75,13 @@ These languages are part of my professional work and my library, API and native 
 
 | Area | Technologies and how I use them |
 | --- | --- |
-| **Web** | Angular, React, Next.js, HTML and CSS for web interfaces and applications. |
+| **Web** | Angular, React, Next.js, HTML and CSS for web interfaces and applications; WordPress and PHP for plugins and content automation. |
 | **Mobile** | Ionic, Capacitor, React Native and Framework7 for app development. |
 | **Backend and integrations** | Java, Spring, Node.js, NestJS, REST APIs, WebSocket, Socket.IO and RabbitMQ for services, real-time communication and messaging. |
 | **Desktop and multimedia** | .NET, Avalonia, GTK, FFmpeg and SDL2 in native applications and audio/video tools. |
 | **Data** | PostgreSQL, MySQL, SQLite, MongoDB, Redis and CouchDB for data storage and access; DBeaver for queries and database administration. |
 | **Infrastructure and delivery** | Git for version control, AWS CodeCommit for work repositories, GitHub and GitHub Actions for public projects; AWS, Docker, Portainer and Rancher for infrastructure, automation and containers. |
-| **Quality and APIs** | Cypress for testing; Bruno, Insomnia and Postman to explore APIs and validate integrations. |
+| **Quality and APIs** | Cypress and Playwright for testing and browser simulation; Bruno, Insomnia and Postman to explore APIs and validate integrations. |
 | **Documentation** | Swagger/OpenAPI and JSON to document API contracts and data structures. |
 
 **How I work:** I aim for understandable code, reusable components, tests that verify behavior and documentation that makes software easier to use and contribute to. I choose technologies based on the problem and the project's requirements.
