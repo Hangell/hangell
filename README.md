@@ -1,154 +1,89 @@
-[![pt-BR](https://img.shields.io/badge/🇧🇷-Português-green)](README.md)
-[![es](https://img.shields.io/badge/🇪🇸-Español-black)](README.es.md)
-[![en](https://img.shields.io/badge/🇺🇸-English-black)](README.en.md)
-# 👋 Olá! Eu sou Rodrigo Rangel de Souza
+[![pt-BR](https://img.shields.io/badge/🇧🇷-Português-green)](README.md) [![es](https://img.shields.io/badge/🇪🇸-Español-black)](README.es.md) [![en](https://img.shields.io/badge/🇺🇸-English-black)](README.en.md)
+
+# Rodrigo Rangel de Souza
 
 <div align="center">
-  <img src="https://cdn.dossi.es/hangell/HangellLKD.png" width="100%"/>
+  <img src="https://cdn.dossi.es/hangell/HangellLKD.png" width="100%" alt="Banner de Hangell — Rodrigo Rangel de Souza"/>
 </div>
 
-## 🚀 Sobre Mim
+**Desenvolvedor Full Stack · Apps, bibliotecas e ferramentas · Open source**
 
-Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Especializado em criar soluções robustas e escaláveis, com experiência em desenvolvimento web, mobile e cloud computing.
+Sou desenvolvedor em São Paulo e fundador da [Hangell.org](https://hangell.org). Crio aplicações web, mobile e desktop, além de bibliotecas e ferramentas para outros desenvolvedores.
 
-💼 **Fundador da [Hangell.org](https://hangell.org)**  
-🎯 **Foco:** Desenvolvimento de aplicações modernas e performáticas  
-🌱 **Sempre aprendendo:** Novas tecnologias e melhores práticas
+Meu trabalho reúne desenvolvimento de produto, integração de serviços e colaboração em projetos open source. Aqui você encontra código, documentação e contribuições que mostram como transformo ideias em software e participo da construção de projetos em equipe.
 
----
+[Projetos](#projects) · [Colaboração](#collaboration) · [Tecnologias](#technologies) · [Atividade](#activity) · [Contato](#contact)
 
-## 📊 Estatísticas do GitHub
+<a name="projects"></a>
+
+## 🚀 Projetos em destaque
+
+Uma seleção de repositórios para conhecer meu trabalho com ferramentas de desenvolvimento, aplicações e integrações.
+
+| Projeto | O que estou construindo | Tecnologias |
+| --- | --- | --- |
+| [gommit](https://github.com/Hangell/gommit) | Assistente de terminal para criar mensagens de commit no padrão Conventional Commits. | Go, Git |
+| [jano](https://github.com/Hangell/jano) | Biblioteca de roteamento HTTP com grupos de rotas, middleware e helpers para APIs. | Go, net/http |
+| [laima](https://github.com/Hangell/laima) | Biblioteca e CLI para manipular, comparar e formatar datas e horários. | TypeScript, JavaScript, Node.js |
+| [ScreenForge](https://github.com/Hangell/ScreenForge) | Aplicação desktop para gravação de tela. | C#, .NET, Avalonia, FFmpeg |
+| [nvr-monitor](https://github.com/Hangell/nvr-monitor) | Monitor de câmeras RTSP com visualização em grade e conexões salvas. | C, FFmpeg, SDL2, SQLite |
+| [api-websocket](https://github.com/Hangell/api-websocket) | Serviço que distribui dados de mercado em tempo real para clientes conectados. | TypeScript, NestJS, Socket.IO |
+
+**Também crio apps mobile:** conheça meus [aplicativos no Google Play](https://play.google.com/store/apps/dev?id=5606456325281613718).
+
+[Explorar todos os repositórios →](https://github.com/Hangell?tab=repositories)
+
+<a name="collaboration"></a>
+
+## 🤝 Colaboração open source
+
+Além dos meus projetos, contribuo com código, testes e melhorias nas ferramentas de outros projetos. No [ng-native](https://github.com/ng-native/ng-native), por exemplo, tive contribuições aceitas para:
+
+- [Ampliar a execução de testes e estabilizar sua inicialização](https://github.com/ng-native/ng-native/pull/598).
+- [Exigir relatórios completos de cobertura e estabilizar testes instrumentados](https://github.com/ng-native/ng-native/pull/626).
+
+Nos meus repositórios, sugestões, relatos de problemas e pull requests são bem-vindos. Gosto de discutir soluções, compartilhar o que aprendo e melhorar o código junto com outras pessoas.
+
+[Ver meus pull requests públicos →](https://github.com/search?q=is%3Apr+is%3Apublic+author%3AHangell&type=pullrequests)
+
+<a name="technologies"></a>
+
+## 🧰 Tecnologias e ferramentas
+
+Minhas linguagens aparecem em projetos de bibliotecas, APIs e aplicações nativas:
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+| Área | Tecnologias e como as aplico |
+| --- | --- |
+| **Web** | Angular, React, Next.js, HTML e CSS para interfaces e aplicações web. |
+| **Mobile** | Ionic, Capacitor, React Native e Framework7 para desenvolvimento de apps. |
+| **Backend e integrações** | Node.js, NestJS, APIs REST, WebSocket, Socket.IO e RabbitMQ para serviços, comunicação em tempo real e mensageria. |
+| **Desktop e multimídia** | .NET, Avalonia, GTK, FFmpeg e SDL2 em aplicações nativas e ferramentas de áudio e vídeo. |
+| **Dados** | PostgreSQL, MySQL, SQLite, MongoDB, Redis e CouchDB para persistência e acesso a dados. |
+| **Infraestrutura e entrega** | Git, GitHub Actions, Docker, AWS, Portainer e Rancher para versionamento, automação, containers e infraestrutura. |
+| **Qualidade e APIs** | Cypress, Postman, Insomnia e Swagger para testes, exploração e documentação de APIs. |
+
+**Como trabalho:** busco código compreensível, componentes reutilizáveis, testes que verificam comportamentos e documentação que facilite o uso e a colaboração. Escolho tecnologias de acordo com o problema e os requisitos do projeto.
+
+<a name="activity"></a>
+
+## 📊 Atividade no GitHub
 
 <div align="center">
   <img src="github-metrics.svg" width="100%" alt="Métricas do GitHub de Hangell: resumo do perfil, linguagens e calendário de contribuições"/>
 </div>
 
-Atualizado diariamente com [Metrics](https://github.com/lowlighter/metrics): resumo do perfil, linguagens dos repositórios públicos e calendário de contribuições do último ano.
+Painel atualizado diariamente com [Metrics](https://github.com/lowlighter/metrics), a partir dos dados públicos disponíveis no GitHub.
+
+<a name="contact"></a>
+
+## 🌐 Vamos conversar
+
+Quer conhecer meu trabalho, discutir uma oportunidade profissional ou construir algo em conjunto? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/rodrigo-rangel-a80810170).
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-rangel-a80810170) · [Hangell.org](https://hangell.org) · [Apps no Google Play](https://play.google.com/store/apps/dev?id=5606456325281613718) · [Repositórios](https://github.com/Hangell?tab=repositories)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-### Frontend
-<div>
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-</div>
-
-### Mobile
-<div>
-  <img align="center" alt="ReactNative" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg">
-  <img align="center" alt="Ionic" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Capacitor" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg">
-  <img align="center" alt="FrameWork7" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framework7/framework7-original.svg">
-</div>
-
-### Backend
-<div>
-  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-</div>
-
-### Databases
-<div>
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQLite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Redis" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="CouchDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchdb/couchdb-original.svg">
-</div>
-
-### DevOps & Cloud
-<div>
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="RabbitMQ" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Portainer" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portainer/portainer-original.svg">
-  <img align="center" alt="Rancher" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rancher/rancher-original.svg">
-</div>
-
-### Docs & API
-<div>
- <img align="center" alt="Postman" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
- <img align="center" alt="Insomnia" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
- <img align="center" alt="Swagger" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
-</div>
-
----
-
-<div align="center">
-  <img src="gif/hangell.gif" width="100%" height="320" alt="Hangell Banner"/>
-</div>
-
-## 🎯 Áreas de Especialização
-
-- **🌐 Desenvolvimento Full Stack:** Criação de aplicações web completas
-- **📱 Desenvolvimento Mobile:** Apps híbridas com Ionic e Capacitor
-- **☁️ Cloud Computing:** Soluções escaláveis na AWS
-- **🏗️ Arquitetura de Software:** Design de sistemas distribuídos
-- **🔄 DevOps:** Containerização e CI/CD
-- **📊 Microserviços:** APIs REST e messaging com RabbitMQ
-
----
-
-## 📱 Projetos Destacados
-
-🎮 **Aplicativos na Google Play Store**  
-Desenvolvedor de múltiplas aplicações mobile disponíveis na loja oficial do Android.
-
-🌐 **Hangell.org**  
-Plataforma web com foco em soluções tecnológicas inovadoras.
-
----
-
-## 🌐 Vamos Nos Conectar?
-
-
-<div align="center">
-  <a href="https://hangell.org" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://play.google.com/store/apps/dev?id=5606456325281613718" target="_blank">
-    <img src="https://img.shields.io/badge/📱_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigo-rangel-a80810170" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-rangel-a80810170">
-    <img
-      src="https://media.licdn.com/dms/image/v2/D4D03AQF0vBM0rLZMKg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704050191664?e=1793232000&v=beta&t=SNQSYbUWgBWLIUs161YtZ_VjSoArLLGRa5W3W74D2Hs"
-      alt="Rodrigo Rangel de Souza"
-      width="120"
-      height="120"
-    />
-  </a>
-
-  <h3>Rodrigo Rangel de Souza</h3>
-
-  <p>
-    Full Stack Developer • Software Engineering • Founder @ Hangell
-  </p>
-
-  <p>
-    <i>Transformando ideias em código, código em soluções.</i>
-  </p>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=Hangell&color=blue&style=flat"
-    alt="Profile Views"
-  />
-</div>
+**Criando software e contribuindo com quem também cria.**
