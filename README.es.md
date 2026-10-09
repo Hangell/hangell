@@ -22,13 +22,10 @@ Desarrollador Full Stack apasionado por la tecnología y la innovación. Especia
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hangell&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hangell&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  <img src="github-metrics.svg" width="100%" alt="Métricas de GitHub de Hangell: resumen del perfil, lenguajes, calendario de contribuciones y actividad reciente"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hangell&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
+Actualizado diariamente con [Metrics](https://github.com/lowlighter/metrics), usando datos públicos de GitHub. Los gráficos de actividad abarcan los últimos 14 días en la zona horaria de São Paulo.
 
 ---
 

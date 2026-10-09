@@ -1,0 +1,56 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    # Atualização diária às 06:23 (America/Sao_Paulo).
+    - cron: "23 9 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/metrics.yml
+      - README.md
+      - README.en.md
+      - README.es.md
+
+concurrency:
+  group: github-metrics
+  cancel-in-progress: false
+
+jobs:
+  github-metrics:
+    name: Atualizar estatísticas do perfil
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Gerar e salvar o painel
+        uses: lowlighter/metrics@latest
+        with:
+          # Token classic sem scopes: consulta as métricas públicas.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Token automático do Actions: grava o SVG neste repositório.
+          committer_token: ${{ github.token }}
+          user: Hangell
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner
+          config_timezone: America/Sao_Paulo
+          config_display: columns
+          config_order: base, languages, isocalendar, habits
+          output_condition: data-changed
+
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_facts: no
