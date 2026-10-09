@@ -39,7 +39,6 @@ jobs:
           repositories_affiliations: owner
           config_timezone: America/Sao_Paulo
           config_display: columns
-          config_order: base, languages, isocalendar, habits
           output_condition: data-changed
 
           plugin_languages: yes
