@@ -36,10 +36,9 @@ jobs:
           filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
-          repositories: 200
           repositories_affiliations: owner
           config_timezone: America/Sao_Paulo
-          config_display: columns
+          config_display: large
           output_condition: data-changed
           plugins_errors_fatal: yes
 
