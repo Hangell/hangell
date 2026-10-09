@@ -35,17 +35,19 @@ Una selección de repositorios para conocer mi trabajo con contenido, automatiza
 | [Ganesha](https://github.com/Hangell/ganesha) | Cliente de chat de escritorio para conversar con modelos de IA en servidores LLM, como Ollama, con historial de conversaciones y respuestas en streaming. | C, GTK4, Libadwaita, Ollama |
 | [Calculadora React](https://github.com/Hangell/calculadora-react) | Calculadora web hecha con React, disponible en GitHub Pages. [Probar →](https://hangell.github.io/calculadora-react/) | JavaScript, React, GitHub Pages |
 | [gommit](https://github.com/Hangell/gommit) | Asistente de terminal para crear mensajes de commit con el estándar Conventional Commits. | Go, Git |
-| [jano](https://github.com/Hangell/jano) | Biblioteca de enrutamiento HTTP con grupos de rutas, middleware y utilidades para APIs. | Go, net/http |
 | [ScreenForge](https://github.com/Hangell/ScreenForge) | Aplicación de escritorio para grabar la pantalla. | C#, .NET, Avalonia, FFmpeg |
 | [nvr-monitor](https://github.com/Hangell/nvr-monitor) | Monitor de cámaras RTSP con visualización en cuadrícula y conexiones guardadas. | C, FFmpeg, SDL2, SQLite |
 | [api-websocket](https://github.com/Hangell/api-websocket) | Servicio que distribuye datos de mercado en tiempo real a los clientes conectados. | TypeScript, NestJS, Socket.IO |
 
-### Bibliotecas publicadas en npm
+### Bibliotecas publicadas por mí
 
-También creo bibliotecas reutilizables para otros desarrolladores, con código abierto y paquetes disponibles en npm.
+Publico bibliotecas de código abierto para otros desarrolladores, con paquetes en Go y JavaScript/TypeScript.
+
+**Creé estas bibliotecas antes de incorporar IA a mi proceso de desarrollo.**
 
 | Biblioteca | Para qué sirve | Enlaces |
 | --- | --- | --- |
+| **Jano** | Paquete Go para enrutamiento HTTP, con grupos de rutas, middleware y utilidades para APIs. | [pkg.go.dev](https://pkg.go.dev/github.com/Hangell/jano) · [Código](https://github.com/Hangell/jano) |
 | **Laima** | Manipulación, comparación y formato de fechas y horas en JavaScript/TypeScript. | [npm](https://www.npmjs.com/package/laima) · [Código](https://github.com/Hangell/laima) |
 | **Combinare** | Combinaciones, permutaciones y productos cartesianos para trabajar con datos, variantes y escenarios de prueba. | [npm](https://www.npmjs.com/package/combinare) · [Código](https://github.com/Hangell/combinare) |
 | **Sounds Control** | Control de audio en JavaScript/TypeScript para juegos y aplicaciones web. | [npm](https://www.npmjs.com/package/sounds-control) · [Código](https://github.com/Hangell/sounds-control) |
