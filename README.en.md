@@ -35,17 +35,19 @@ A selection of repositories showing my work on content, automation, developer to
 | [Ganesha](https://github.com/Hangell/ganesha) | A desktop chat client for talking to AI models on LLM servers such as Ollama, with conversation history and streaming responses. | C, GTK4, Libadwaita, Ollama |
 | [React Calculator](https://github.com/Hangell/calculadora-react) | A web calculator built with React and available on GitHub Pages. [Try it →](https://hangell.github.io/calculadora-react/) | JavaScript, React, GitHub Pages |
 | [gommit](https://github.com/Hangell/gommit) | A command-line assistant for writing commit messages using Conventional Commits. | Go, Git |
-| [jano](https://github.com/Hangell/jano) | An HTTP routing library with route groups, middleware and API helpers. | Go, net/http |
 | [ScreenForge](https://github.com/Hangell/ScreenForge) | A desktop application for screen recording. | C#, .NET, Avalonia, FFmpeg |
 | [nvr-monitor](https://github.com/Hangell/nvr-monitor) | An RTSP camera monitor with grid viewing and saved connections. | C, FFmpeg, SDL2, SQLite |
 | [api-websocket](https://github.com/Hangell/api-websocket) | A service that streams real-time market data to connected clients. | TypeScript, NestJS, Socket.IO |
 
-### Libraries published on npm
+### Libraries published by me
 
-I also build reusable libraries for other developers, with open source code and packages available on npm.
+I publish open source libraries for other developers, with packages in Go and JavaScript/TypeScript.
+
+**I created these libraries before adopting AI in my development process.**
 
 | Library | Purpose | Links |
 | --- | --- | --- |
+| **Jano** | A Go package for HTTP routing, with route groups, middleware and API helpers. | [pkg.go.dev](https://pkg.go.dev/github.com/Hangell/jano) · [Source](https://github.com/Hangell/jano) |
 | **Laima** | Date and time manipulation, comparison and formatting in JavaScript/TypeScript. | [npm](https://www.npmjs.com/package/laima) · [Source](https://github.com/Hangell/laima) |
 | **Combinare** | Combinations, permutations and Cartesian products for working with data, variants and test scenarios. | [npm](https://www.npmjs.com/package/combinare) · [Source](https://github.com/Hangell/combinare) |
 | **Sounds Control** | Audio control in JavaScript/TypeScript for games and web applications. | [npm](https://www.npmjs.com/package/sounds-control) · [Source](https://github.com/Hangell/sounds-control) |
