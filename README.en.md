@@ -20,10 +20,10 @@ Full Stack Developer passionate about technology and innovation. Specialized in 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-metrics.svg" width="100%" alt="Hangell's GitHub metrics: profile overview, languages, contribution calendar and recent activity"/>
+  <img src="github-metrics.svg" width="100%" alt="Hangell's GitHub metrics: profile overview, languages and contribution calendar"/>
 </div>
 
-Updated daily with [Metrics](https://github.com/lowlighter/metrics), using public GitHub data. Activity charts cover the last 14 days in the São Paulo timezone.
+Updated daily with [Metrics](https://github.com/lowlighter/metrics): profile overview, languages in public repositories and a contribution calendar for the past year.
 
 ---
 

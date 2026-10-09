@@ -20,10 +20,10 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Especializado e
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="github-metrics.svg" width="100%" alt="Métricas do GitHub de Hangell: resumo do perfil, linguagens, calendário de contribuições e atividade recente"/>
+  <img src="github-metrics.svg" width="100%" alt="Métricas do GitHub de Hangell: resumo do perfil, linguagens e calendário de contribuições"/>
 </div>
 
-Atualizado diariamente com [Metrics](https://github.com/lowlighter/metrics), usando dados públicos do GitHub. Os gráficos de atividade consideram os últimos 14 dias, no fuso de São Paulo.
+Atualizado diariamente com [Metrics](https://github.com/lowlighter/metrics): resumo do perfil, linguagens dos repositórios públicos e calendário de contribuições do último ano.
 
 ---
 
