@@ -111,12 +111,10 @@ Desenvolvedor de múltiplas aplicações mobile disponíveis na loja oficial do 
 🌐 **Hangell.org**  
 Plataforma web com foco em soluções tecnológicas inovadoras.
 
-📺 **Canal no YouTube**  
-Conteúdo educativo sobre programação e tecnologia.
-
 ---
 
 ## 🌐 Vamos Nos Conectar?
+
 
 <div align="center">
   <a href="https://hangell.org" target="_blank">
@@ -133,7 +131,27 @@ Conteúdo educativo sobre programação e tecnologia.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hangell&color=blue&style=flat" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/rodrigo-rangel-a80810170">
+    <img
+      src="https://media.licdn.com/dms/image/v2/D4D03AQF0vBM0rLZMKg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704050191664?e=1793232000&v=beta&t=SNQSYbUWgBWLIUs161YtZ_VjSoArLLGRa5W3W74D2Hs"
+      alt="Rodrigo Rangel de Souza"
+      width="120"
+      height="120"
+    />
+  </a>
 
-**💡 "Transformando ideias em código, código em soluções."**
+  <h3>Rodrigo Rangel de Souza</h3>
+
+  <p>
+    Full Stack Developer • Software Engineering • Founder @ Hangell
+  </p>
+
+  <p>
+    <i>Transformando ideias em código, código em soluções.</i>
+  </p>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=Hangell&color=blue&style=flat"
+    alt="Profile Views"
+  />
 </div>
