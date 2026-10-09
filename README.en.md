@@ -6,9 +6,11 @@
   <img src="https://cdn.dossi.es/hangell/HangellLKD.png" width="100%" alt="Hangell banner — Rodrigo Rangel de Souza"/>
 </div>
 
-**Full Stack Developer · Apps, libraries and tools · Open source**
+**Full Stack Tech Lead at MJV · Apps, libraries and tools · Open source**
 
 I'm a developer based in São Paulo and the founder of [Hangell.org](https://hangell.org). I build web, mobile and desktop applications, along with libraries and tools for other developers.
+
+I currently work as a **Full Stack Tech Lead at MJV**, using Java and Spring, TypeScript, NestJS and Angular. In my daily work, I use **Git for version control and AWS CodeCommit to host and collaborate on work repositories**, alongside AWS, Rancher, MySQL and DBeaver. I also work on API documentation with Swagger/OpenAPI and JSON, using Bruno, Insomnia and Postman to explore and validate integrations.
 
 My work brings together product development, service integration and open source collaboration. Here you'll find code, documentation and contributions that show how I turn ideas into software and help build projects with others.
 
@@ -50,19 +52,20 @@ Suggestions, bug reports and pull requests are welcome in my repositories. I enj
 
 ## 🧰 Technologies and tools
 
-These languages appear in my libraries, APIs and native applications:
+These languages are part of my professional work and my library, API and native application projects:
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 | Area | Technologies and how I use them |
 | --- | --- |
 | **Web** | Angular, React, Next.js, HTML and CSS for web interfaces and applications. |
 | **Mobile** | Ionic, Capacitor, React Native and Framework7 for app development. |
-| **Backend and integrations** | Node.js, NestJS, REST APIs, WebSocket, Socket.IO and RabbitMQ for services, real-time communication and messaging. |
+| **Backend and integrations** | Java, Spring, Node.js, NestJS, REST APIs, WebSocket, Socket.IO and RabbitMQ for services, real-time communication and messaging. |
 | **Desktop and multimedia** | .NET, Avalonia, GTK, FFmpeg and SDL2 in native applications and audio/video tools. |
-| **Data** | PostgreSQL, MySQL, SQLite, MongoDB, Redis and CouchDB for data storage and access. |
-| **Infrastructure and delivery** | Git, GitHub Actions, Docker, AWS, Portainer and Rancher for version control, automation, containers and infrastructure. |
-| **Quality and APIs** | Cypress, Postman, Insomnia and Swagger for testing, exploring and documenting APIs. |
+| **Data** | PostgreSQL, MySQL, SQLite, MongoDB, Redis and CouchDB for data storage and access; DBeaver for queries and database administration. |
+| **Infrastructure and delivery** | Git for version control, AWS CodeCommit for work repositories, GitHub and GitHub Actions for public projects; AWS, Docker, Portainer and Rancher for infrastructure, automation and containers. |
+| **Quality and APIs** | Cypress for testing; Bruno, Insomnia and Postman to explore APIs and validate integrations. |
+| **Documentation** | Swagger/OpenAPI and JSON to document API contracts and data structures. |
 
 **How I work:** I aim for understandable code, reusable components, tests that verify behavior and documentation that makes software easier to use and contribute to. I choose technologies based on the problem and the project's requirements.
 

@@ -6,9 +6,11 @@
   <img src="https://cdn.dossi.es/hangell/HangellLKD.png" width="100%" alt="Banner de Hangell — Rodrigo Rangel de Souza"/>
 </div>
 
-**Desenvolvedor Full Stack · Apps, bibliotecas e ferramentas · Open source**
+**Tech Lead Full Stack na MJV · Apps, bibliotecas e ferramentas · Open source**
 
 Sou desenvolvedor em São Paulo e fundador da [Hangell.org](https://hangell.org). Crio aplicações web, mobile e desktop, além de bibliotecas e ferramentas para outros desenvolvedores.
+
+Atualmente, atuo como **Tech Lead Full Stack na MJV**, com Java e Spring, TypeScript, NestJS e Angular. No cotidiano, utilizo **Git para versionamento e AWS CodeCommit para hospedar e colaborar nos repositórios de trabalho**, além de AWS, Rancher, MySQL e DBeaver. Também trabalho com documentação de APIs em Swagger/OpenAPI e JSON, utilizando Bruno, Insomnia e Postman para explorar e validar integrações.
 
 Meu trabalho reúne desenvolvimento de produto, integração de serviços e colaboração em projetos open source. Aqui você encontra código, documentação e contribuições que mostram como transformo ideias em software e participo da construção de projetos em equipe.
 
@@ -50,19 +52,20 @@ Nos meus repositórios, sugestões, relatos de problemas e pull requests são be
 
 ## 🧰 Tecnologias e ferramentas
 
-Minhas linguagens aparecem em projetos de bibliotecas, APIs e aplicações nativas:
+Estas linguagens fazem parte da minha atuação profissional e dos meus projetos de bibliotecas, APIs e aplicações nativas:
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 | Área | Tecnologias e como as aplico |
 | --- | --- |
 | **Web** | Angular, React, Next.js, HTML e CSS para interfaces e aplicações web. |
 | **Mobile** | Ionic, Capacitor, React Native e Framework7 para desenvolvimento de apps. |
-| **Backend e integrações** | Node.js, NestJS, APIs REST, WebSocket, Socket.IO e RabbitMQ para serviços, comunicação em tempo real e mensageria. |
+| **Backend e integrações** | Java, Spring, Node.js, NestJS, APIs REST, WebSocket, Socket.IO e RabbitMQ para serviços, comunicação em tempo real e mensageria. |
 | **Desktop e multimídia** | .NET, Avalonia, GTK, FFmpeg e SDL2 em aplicações nativas e ferramentas de áudio e vídeo. |
-| **Dados** | PostgreSQL, MySQL, SQLite, MongoDB, Redis e CouchDB para persistência e acesso a dados. |
-| **Infraestrutura e entrega** | Git, GitHub Actions, Docker, AWS, Portainer e Rancher para versionamento, automação, containers e infraestrutura. |
-| **Qualidade e APIs** | Cypress, Postman, Insomnia e Swagger para testes, exploração e documentação de APIs. |
+| **Dados** | PostgreSQL, MySQL, SQLite, MongoDB, Redis e CouchDB para persistência e acesso a dados; DBeaver para consultas e administração de bancos. |
+| **Infraestrutura e entrega** | Git para versionamento, AWS CodeCommit nos repositórios do trabalho, GitHub e GitHub Actions nos projetos públicos; AWS, Docker, Portainer e Rancher para infraestrutura, automação e containers. |
+| **Qualidade e APIs** | Cypress para testes; Bruno, Insomnia e Postman para explorar APIs e validar integrações. |
+| **Documentação** | Swagger/OpenAPI e JSON para documentar contratos e estruturas de dados das APIs. |
 
 **Como trabalho:** busco código compreensível, componentes reutilizáveis, testes que verificam comportamentos e documentação que facilite o uso e a colaboração. Escolho tecnologias de acordo com o problema e os requisitos do projeto.
 

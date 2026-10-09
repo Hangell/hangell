@@ -6,9 +6,11 @@
   <img src="https://cdn.dossi.es/hangell/HangellLKD.png" width="100%" alt="Banner de Hangell — Rodrigo Rangel de Souza"/>
 </div>
 
-**Desarrollador Full Stack · Apps, bibliotecas y herramientas · Open source**
+**Tech Lead Full Stack en MJV · Apps, bibliotecas y herramientas · Open source**
 
 Soy desarrollador en São Paulo y fundador de [Hangell.org](https://hangell.org). Creo aplicaciones web, móviles y de escritorio, además de bibliotecas y herramientas para otros desarrolladores.
+
+Actualmente, trabajo como **Tech Lead Full Stack en MJV**, con Java y Spring, TypeScript, NestJS y Angular. En mi día a día, utilizo **Git para el control de versiones y AWS CodeCommit para alojar y colaborar en los repositorios de trabajo**, además de AWS, Rancher, MySQL y DBeaver. También trabajo con documentación de APIs en Swagger/OpenAPI y JSON, utilizando Bruno, Insomnia y Postman para explorar y validar integraciones.
 
 Mi trabajo combina desarrollo de producto, integración de servicios y colaboración en proyectos open source. Aquí encontrarás código, documentación y contribuciones que muestran cómo convierto ideas en software y participo en la construcción de proyectos en equipo.
 
@@ -50,19 +52,20 @@ Las sugerencias, los reportes de problemas y los pull requests son bienvenidos e
 
 ## 🧰 Tecnologías y herramientas
 
-Estos lenguajes aparecen en mis proyectos de bibliotecas, APIs y aplicaciones nativas:
+Estos lenguajes forman parte de mi trabajo profesional y de mis proyectos de bibliotecas, APIs y aplicaciones nativas:
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 | Área | Tecnologías y cómo las aplico |
 | --- | --- |
 | **Web** | Angular, React, Next.js, HTML y CSS para interfaces y aplicaciones web. |
 | **Móvil** | Ionic, Capacitor, React Native y Framework7 para el desarrollo de apps. |
-| **Backend e integraciones** | Node.js, NestJS, APIs REST, WebSocket, Socket.IO y RabbitMQ para servicios, comunicación en tiempo real y mensajería. |
+| **Backend e integraciones** | Java, Spring, Node.js, NestJS, APIs REST, WebSocket, Socket.IO y RabbitMQ para servicios, comunicación en tiempo real y mensajería. |
 | **Escritorio y multimedia** | .NET, Avalonia, GTK, FFmpeg y SDL2 en aplicaciones nativas y herramientas de audio y vídeo. |
-| **Datos** | PostgreSQL, MySQL, SQLite, MongoDB, Redis y CouchDB para persistencia y acceso a datos. |
-| **Infraestructura y entrega** | Git, GitHub Actions, Docker, AWS, Portainer y Rancher para control de versiones, automatización, contenedores e infraestructura. |
-| **Calidad y APIs** | Cypress, Postman, Insomnia y Swagger para pruebas, exploración y documentación de APIs. |
+| **Datos** | PostgreSQL, MySQL, SQLite, MongoDB, Redis y CouchDB para persistencia y acceso a datos; DBeaver para consultas y administración de bases de datos. |
+| **Infraestructura y entrega** | Git para el control de versiones, AWS CodeCommit en los repositorios de trabajo, GitHub y GitHub Actions en proyectos públicos; AWS, Docker, Portainer y Rancher para infraestructura, automatización y contenedores. |
+| **Calidad y APIs** | Cypress para pruebas; Bruno, Insomnia y Postman para explorar APIs y validar integraciones. |
+| **Documentación** | Swagger/OpenAPI y JSON para documentar contratos y estructuras de datos de las APIs. |
 
 **Cómo trabajo:** busco código comprensible, componentes reutilizables, pruebas que verifiquen comportamientos y documentación que facilite el uso y la colaboración. Elijo las tecnologías según el problema y los requisitos del proyecto.
 
