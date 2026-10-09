@@ -32,6 +32,8 @@ Uma seleção de repositórios para conhecer meu trabalho com conteúdo, automa�
 | [Ghost AI Writer](https://github.com/Hangell/ghost-ai-writer) | Plugin para automatizar a criação e o gerenciamento de posts de blogs WordPress com IA. | PHP, JavaScript, WordPress, APIs de IA |
 | [imgo](https://github.com/Hangell/imgo) | Ferramenta desktop para redimensionar e converter imagens. | Go, Fyne |
 | [Browser Simulator](https://github.com/Hangell/browser-simulator) | Emula navegadores e perfis de iPhone, iPad e Android no Linux, Windows e macOS, sem exigir um Mac físico. | JavaScript, Playwright, WebKit, Chromium |
+| [Ganesha](https://github.com/Hangell/ganesha) | Cliente de chat desktop para conversar com modelos de IA em servidores LLM, como Ollama, com histórico de conversas e respostas em streaming. | C, GTK4, Libadwaita, Ollama |
+| [Calculadora React](https://github.com/Hangell/calculadora-react) | Calculadora web feita em React, disponível no GitHub Pages. [Experimentar →](https://hangell.github.io/calculadora-react/) | JavaScript, React, GitHub Pages |
 | [gommit](https://github.com/Hangell/gommit) | Assistente de terminal para criar mensagens de commit no padrão Conventional Commits. | Go, Git |
 | [jano](https://github.com/Hangell/jano) | Biblioteca de roteamento HTTP com grupos de rotas, middleware e helpers para APIs. | Go, net/http |
 | [ScreenForge](https://github.com/Hangell/ScreenForge) | Aplicação desktop para gravação de tela. | C#, .NET, Avalonia, FFmpeg |
