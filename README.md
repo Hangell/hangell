@@ -60,7 +60,13 @@ Publico bibliotecas de código aberto para outros desenvolvedores, com pacotes e
 
 ## 🤝 Colaboração open source
 
-Além dos meus projetos, contribuo com código, testes e melhorias nas ferramentas de outros projetos. No [ng-native](https://github.com/ng-native/ng-native), por exemplo, tive contribuições aceitas para:
+Além dos meus projetos, contribuo com código, testes e melhorias nas ferramentas de outros projetos. Algumas das minhas contribuições aceitas:
+
+**[NestJS](https://github.com/nestjs/nest)**
+
+- [Preservar payloads `null` em registros tombstone do Kafka](https://github.com/nestjs/nest/pull/18085), corrigindo a desserialização no módulo de microserviços e adicionando testes de regressão e compatibilidade.
+
+**[ng-native](https://github.com/ng-native/ng-native)**
 
 - [Ampliar a execução de testes e estabilizar sua inicialização](https://github.com/ng-native/ng-native/pull/598).
 - [Exigir relatórios completos de cobertura e estabilizar testes instrumentados](https://github.com/ng-native/ng-native/pull/626).
