@@ -60,7 +60,13 @@ I publish open source libraries for other developers, with packages in Go and Ja
 
 ## 🤝 Open source collaboration
 
-Alongside my own projects, I contribute code, tests and tooling improvements to other projects. In [ng-native](https://github.com/ng-native/ng-native), for example, my merged contributions include:
+Alongside my own projects, I contribute code, tests and tooling improvements to other projects. Some of my merged contributions include:
+
+**[NestJS](https://github.com/nestjs/nest)**
+
+- [Preserving `null` payloads in Kafka tombstone records](https://github.com/nestjs/nest/pull/18085), fixing deserialization in the microservices module and adding regression and compatibility tests.
+
+**[ng-native](https://github.com/ng-native/ng-native)**
 
 - [Expanding test execution and stabilizing test startup](https://github.com/ng-native/ng-native/pull/598).
 - [Requiring complete coverage reports and stabilizing instrumented tests](https://github.com/ng-native/ng-native/pull/626).
