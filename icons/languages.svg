@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="36" viewBox="0 0 840 36" role="img" aria-labelledby="title">
+  <title id="title">Java, Go, TypeScript, JavaScript, C, C#, PHP</title>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <rect x="0" width="108" height="36" rx="4" fill="#ED8B00"/>
+    <text x="54" y="23" fill="#ffffff">Java</text>
+    <rect x="122" width="108" height="36" rx="4" fill="#00ADD8"/>
+    <text x="176" y="23" fill="#ffffff">Go</text>
+    <rect x="244" width="108" height="36" rx="4" fill="#3178C6"/>
+    <text x="298" y="23" fill="#ffffff">TS</text>
+    <rect x="366" width="108" height="36" rx="4" fill="#F7DF1E"/>
+    <text x="420" y="23" fill="#171717">JS</text>
+    <rect x="488" width="108" height="36" rx="4" fill="#283593"/>
+    <text x="542" y="23" fill="#ffffff">C</text>
+    <rect x="610" width="108" height="36" rx="4" fill="#512BD4"/>
+    <text x="664" y="23" fill="#ffffff">C#</text>
+    <rect x="732" width="108" height="36" rx="4" fill="#777BB4"/>
+    <text x="786" y="23" fill="#ffffff">PHP</text>
+  </g>
+</svg>

@@ -81,7 +81,7 @@ Las sugerencias, los reportes de problemas y los pull requests son bienvenidos e
 
 Estos lenguajes forman parte de mi trabajo profesional y de mis proyectos de bibliotecas, APIs y aplicaciones nativas:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<img src="icons/languages.svg" alt="Java, Go, TypeScript (TS), JavaScript (JS), C, C#, PHP" width="100%">
 
 | Área | Tecnologías y cómo las aplico |
 | --- | --- |
