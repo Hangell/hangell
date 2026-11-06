@@ -1,6 +1,6 @@
 [![pt-BR](https://img.shields.io/badge/🇧🇷-Português-green)](README.md) [![es](https://img.shields.io/badge/🇪🇸-Español-black)](README.es.md) [![en](https://img.shields.io/badge/🇺🇸-English-black)](README.en.md)
 
-# Rodrigo Rangel de Souza
+# Rodrigo Rangel
 
 <div align="center">
   <img src="https://cdn.dossi.es/hangell/HangellLKD.png" width="100%" alt="Banner de Hangell — Rodrigo Rangel de Souza"/>
